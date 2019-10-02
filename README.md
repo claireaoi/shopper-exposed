@@ -1,9 +1,7 @@
 # ShopperExposed
-A critical &amp; creative workshop around Consumer Predictive Analysis
 
 
-## What is this?
-This (and the Jupyter Notebook) was the support of a workshop held at Chronus Art Center (Shanghai), in September 2019 by Vytas Jankauskas & Claire Glanois around Consumer Predictive Analysis.
+This (and the Jupyter Notebook) was the support of a critical and creative workshop held at Chronus Art Center (Shanghai), in September 2019 by Vytas Jankauskas & Claire Glanois around Consumer Predictive Analysis.
 For any questions, or comment, feel free to reach us.
 
 ## Workshop Description
