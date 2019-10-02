@@ -2,6 +2,8 @@
 A critical &amp; creative workshop around Consumer Predictive Analysis
 [Poster](/ShopperExposedPoster.jpeg)
 
+<img src="/ShopperExposedPoster.jpeg">
+
 ## What is this?
 This was the support of a workshop held at Chronus Art Center (Shanghai), in September 2019 by Vytas Jankauskas & Claire Glanois.
 
