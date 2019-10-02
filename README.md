@@ -4,7 +4,7 @@
 This (and the Jupyter Notebook) was the support of a critical and creative workshop held at Chronus Art Center (Shanghai), in September 2019 by Vytas Jankauskas & Claire Glanois around Consumer Predictive Analysis.
 For any questions, or comment, feel free to reach us.
 
-## Workshop Description
+## Why?
 The data we produce online is often distributed between various parties interested in knowing more about us. New insights are generated as machine learning algorithms help speculate about our personalities, physical or psychological states, aspirations, among others. This information helps entities such as advertisers or corporations target individuals or groups with tailored products and services.
 
 CAC Atelier ‘Shoppers Exposed’ will look into artificial intelligence as means to profile us based on individual consumer patterns. By exploring online purchase histories, identifying consumer types, we will discuss the human biases underlying algorithmic classification We will play around and collectively re-appropriate customer taxonomies in an attempt to transgress normative labels. Based on the wordplay and semantics present in the product’s title, a new machine learning algorithm will be trained. The scope of the activity will therefore be to creatively grasp on how machine learning and predictive analytics work, rather than technocratically reverse-engineering their frameworks.
